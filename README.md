@@ -1,5 +1,8 @@
-# Hi 👋 l'm Naveen Welcome to my Github Page
-- hgfghhg
+# Hi 👋 I'm Naveen Welcome to my Github Page
+- I completed my B.Tech. in Mechanical in the year 2022 from RPS Degree College, Mahendergarh(Haryana).
+- I'm interested in learning new things and share my knowledge with those around me.
+- I'm looking to collaborate on Data Analytics and Visualization Project.
+
 <!--
 **Naveen8221/Naveen8221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
